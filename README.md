@@ -5,6 +5,7 @@ This is a simple implementation of the classic Tic Tac Toe game in Python.
 
 ## Table of Contents
 
+
 - [Introduction](#introduction)
 - [How to Play](#how-to-play)
 - [Features](#features)
