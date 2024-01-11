@@ -38,6 +38,7 @@ The main logic of the game is implemented in the `minimax_alpha_beta` function. 
 ## Run the Game
 
 To run the game, follow these steps:
+
 1. Game Initialization:
    ```bash
    board = ['-'] * 9
@@ -55,6 +56,7 @@ To run the game, follow these steps:
         print(board[i] + '|' + board[i + 1] + '|' + board[i + 2])
     print()
 ```
+
 3. Checking for a Winner:
 
    ```bash
@@ -101,6 +103,7 @@ The game loop allows players to take turns making moves until there is a winner 
    move = int(input("select your choice(0-8): "))
    if board[move] == '-':
    ```
+   
 Takes user input for their move and implements the game logic for player and AI turns.
 
 9. Printing Game Outcome:
