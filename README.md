@@ -80,11 +80,13 @@ This function checks if the game board is full, indicating a draw.
    ```
 This function checks if the game board is full, indicating a draw.
 
+
 5. Minimax Algorithm with Alpha-Beta Pruning:
    ```bash
    def minimax_alpha_beta(board, depth, alpha, beta, maximizing_player):
    ```
 This function implements the minimax algorithm with alpha-beta pruning for the AI's decision-making.
+
 
 6. Finding the Best Move for AI:
    ```bash
