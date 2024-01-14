@@ -15,7 +15,6 @@ This is a simple implementation of the classic Tic Tac Toe game in Python.
 - [License](#license)
 
 ## Introduction
-
 Welcome to the Tic Tac Toe game! This Python program allows you to play Tic Tac Toe against an AI opponent. The game employs the minimax algorithm with alpha-beta pruning for intelligent AI moves.
 
 ## How to Play
@@ -33,7 +32,7 @@ Welcome to the Tic Tac Toe game! This Python program allows you to play Tic Tac 
 
 ## Implementation Details
 
-The main logic of the game is implemented in the `minimax_alpha_beta` function. This function utilizes the minimax algorithm with alpha-beta pruning to make optimal AI decisions.
+The main logic of the game is implemented in `minimax_alpha_beta` function. This function utilizes the minimax algorithm with alpha-beta pruning to make optimal AI decisions.
 
 ## Run the Game
 
